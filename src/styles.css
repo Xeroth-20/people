@@ -1,0 +1,8 @@
+.separator {
+    background-color: rgba(000, 000, 000, 0.24);
+    height: 1px;
+}
+
+.card-list .card:not(.card:last-child) {
+    margin-bottom: 24px;
+}
