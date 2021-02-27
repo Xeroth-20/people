@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# PEOPLE
+Crud hecho en ReactJS usando localstorage.
+
+Visita la aplicación [aquí](https://people-tawny.vercel.app/).
+
+![Web site capture](https://user-images.githubusercontent.com/64508119/109398347-6705cf80-790a-11eb-998a-a6c59d247d21.png).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
